@@ -1,3 +1,4 @@
+/* generic override styling for page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -14,7 +15,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* header styling start */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* hero styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -133,7 +134,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* body sections */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +188,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Footer styling */
 .footer {
     padding: 30px;
     clear: both;
